@@ -1,6 +1,6 @@
 coincurve~=15.0.0
 green~=3.2.5
 protobuf~=3.14.0
-pycryptodome~=3.9.9
+pycryptodome~=3.19.1
 ecdsa==0.16.0
 groestlcoin_hash~=1.0.3
